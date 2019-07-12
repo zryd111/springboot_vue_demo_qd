@@ -1,5 +1,21 @@
-# springboot_vue_demo_qd
-基于springboot与vue.js的前后端分离小demo，此为前端代码部分
+# springboot_vue_demo
 
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
 npm install
+
+# serve with hot reload at localhost:8080
 npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
